@@ -25,5 +25,3 @@ seaborn>=0.11.0
 # Progress bars (optional)
 tqdm>=4.62.0
 
-# For LaTeX report compilation (optional)
-# Install separately: texlive-full or mactex
